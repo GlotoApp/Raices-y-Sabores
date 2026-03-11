@@ -1,0 +1,44 @@
+{
+    "tituloPagina": "Raices & Sabores | Pide a domicilio | Restaurante | Ordena online",
+    "nombreRestaurante": "Raices & Sabores",
+    "logo": "img/icono_tienda.png",
+    "colores": {
+        "--bg-body": "#222",
+        "--header": "linear-gradient(135deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('img/fondoheader.png')",
+        "--accent": "#63a355",
+        "--bg-skeleton": "linear-gradient(135deg, #f9f9f9, #e9e9e9)",
+        "--bg-start": "#333",
+        "--bg-end": "#444",
+        "--card-bg": "#222"
+    },
+    "redes": {
+        "whatsapp": "https://wa.me/573046123191",
+        "instagram": "https://www.instagram.com/",
+        "facebook": "https://www.facebook.com/"
+    },
+    "numeroWhatsAppMensajes": "573046123191",
+    "footerQR": "img/QR_tienda.png",
+    "sede": {
+        "nombre": "Raices & Sabores - Cartagena, Bolivar.",
+        "direccion": "La Boquilla, Calle Principal",
+        "telefono": "(+57) 304 612 3191"
+    },
+    "coordenadasSede": [
+        10.473747, 
+        -75.495569
+    ],
+    "footerLogo": "img/logo.png",
+        "domicilio": {
+        "tarifaMinima": 3000,
+        "costoPorKilometro": 1500,
+        "recargoNocturnoActivo": true
+    },
+    "crearTienda": "https://wa.me/573022666530?text=Quiero%20crear%20mi%20tienda",
+    "apiUrls": {
+        "productos": "https://script.google.com/macros/s/AKfycbwlVsrTOJ7wkucHy3yOCLHqUV6vD8mI57oU26Wi1Jz5erIIeRiG4dJfIeIFf8qxN8tlmw/exec",
+        "horario": "https://script.google.com/macros/s/AKfycbzA9HzcePz-xz9i16bLdX0Eps6SMJRKDrUX-BtYy2ngrg2KYYktjdNIIjxDqvq9kod__Q/exec",
+        "envioBaseDatos": "https://script.google.com/macros/s/AKfycbz5Xe9VIxrP9We5qO8klI0Dg1svZEt0NkI6ABi-qg9T7mXhxl54U0dEldqUkmQwTDsT/exec",
+        "reciboBaseDatos": "https://script.google.com/macros/s/AKfycbz5Xe9VIxrP9We5qO8klI0Dg1svZEt0NkI6ABi-qg9T7mXhxl54U0dEldqUkmQwTDsT/exec",
+        "CajaDatos": "https://script.google.com/macros/s/AKfycbxgQ6tuAvePUgbVcg-eAcwibHVQASEOjnlU_hRS6ezWxipRhPvPfrOl4wywCkpmHDSN/exec"   
+    }
+}
